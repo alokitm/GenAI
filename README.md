@@ -100,7 +100,7 @@ Langchain/
 
 ## 🔹 GenAI Applications
 
-* Streamlit App
+* Streamlit App 
 * Local LLM using Ollama
 * Gemma Model Integration
 
