@@ -1,4 +1,4 @@
-# LangChain Operations 🚀
+# LangChain Operations
 
 A complete hands-on repository covering different LangChain operations, Retrieval-Augmented Generation (RAG), Vector Stores, Embeddings, Data Ingestion, and Local LLM applications using Ollama.
 
